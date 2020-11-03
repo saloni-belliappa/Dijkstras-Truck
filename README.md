@@ -1,1 +1,1 @@
-# dikstance
+# dijkstrance
